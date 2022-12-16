@@ -1,0 +1,59 @@
+body {
+    background-color: cornflowerblue;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+a {
+    color: blue;
+}
+
+.verse {
+    font-size: 20px;
+    font-style: italic;
+    font-style: bold;
+}
+
+.common {
+    background-color: floralwhite;
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+    padding-left: 5px;
+}
+
+.leftmenu {
+    top: 35px;
+    left: 5px;
+    width: 95px;
+    height: auto;
+    padding-left: 5px;
+}
+
+.mainbody {
+    top: 35px;
+    left: 114px;
+    right: 5px;
+    height: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.footer {
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed
+}
